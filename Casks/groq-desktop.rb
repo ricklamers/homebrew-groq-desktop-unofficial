@@ -1,9 +1,9 @@
 # Casks/groq-desktop.rb
 cask "groq-desktop" do
-  version "1.0.0-202507152043"
-  sha256 "acbbb802c9306eded4cb777f25bdf3fcd8ea1fd491020a8fe528d1eefa199203"
+  version "1.0.0-202507152115"
+  sha256 "f31d27ed44ed92253a4d21ca41e6a36cd267d887073fc9af612a22698c87cc2e"
 
-  url "https://github.com/groq/groq-desktop-beta/releases/download/v1.0.0-1f97ca7/Groq.Desktop-1.0.0-ARM64.dmg"
+  url "https://github.com/groq/groq-desktop-beta/releases/download/v1.0.0-638eba1/Groq.Desktop-1.0.0-ARM64.dmg"
   name "Groq Desktop (Unofficial Rick Lamers Build)" # Clearly unofficial name
   desc "Unofficial community build of the Groq Desktop application" # Clearly unofficial description
   homepage "https://github.com/groq/groq-desktop-beta" # Link to original repo
